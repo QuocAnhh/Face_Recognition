@@ -42,11 +42,10 @@ Dự án này là một hệ thống nhận diện khuôn mặt được phát t
 
 ```
 Face_Recognition/
-├── data/                # Thư mục lưu trữ dữ liệu khuôn mặt
-├── main.py              # Tập tin chính chạy chương trình
-├── requirements.txt     # Danh sách các thư viện cần thiết
-├── utils.py             # Các hàm hỗ trợ
-└── ...                  # Các tệp tin khác
+├── data/                # File chứa dữ liệu khuôn mặt và các dữ dữ liệu cần thiết cho việc train model
+├── src/                # File chứa các tập tin thực hiện chức năng chính của dự án
+├── gui.py              # Tập tin chính để chạy chương trình
+                
 ```
 
 ## Đóng góp
