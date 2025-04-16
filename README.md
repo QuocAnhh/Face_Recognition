@@ -37,7 +37,6 @@ Dự án này là một hệ thống nhận diện khuôn mặt được phát t
 
 - Chạy lệnh `python gui.py` và trên giao diện này có hiển thị tất cả tính năng, chỉ việc thao tác và sử dụng
 
-> **Lưu ý:** Tham số dòng lệnh có thể khác tuỳ vào cách bạn triển khai. Xem chi tiết trong file `main.py` hoặc tài liệu hướng dẫn sử dụng.
 
 ## Cấu trúc thư mục
 
